@@ -1,0 +1,11 @@
+{
+  "name": "VersionRegistry",
+  "description": "Spine Toolbox Project and Item Version Registry.",
+  "projects": [
+    {
+      "name": "Project and Tool Versioning",
+      "version": "0.0.1",
+      "url": "https://github.com/PekkaSavolainen/VersioningProject.git"
+    }
+  ]
+}
