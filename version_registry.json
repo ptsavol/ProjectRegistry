@@ -6,6 +6,9 @@
       {
         "name": "VersioningProject",
         "project": "0.0.1"
+      },
+      {
+        "project": "0.0.2"
       }
     ]
   }
