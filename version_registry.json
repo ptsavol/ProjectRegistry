@@ -17,6 +17,13 @@
     "https://github.com/irena-flextool/flextool.git": [
       {
         "project": "0.1"
+      },
+      {
+        "project": "0.2",
+        "FlexTool3": "0.1",
+        "Input_data": "0.2",
+        "Excel_input_data": "0.4",
+        "Results": "sha-1-abcd"
       }
     ]
   }
