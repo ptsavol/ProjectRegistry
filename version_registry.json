@@ -4,7 +4,6 @@
   "projects": {
     "https://github.com/PekkaSavolainen/VersioningProject.git": [
       {
-        "name": "VersioningProject",
         "project": "0.0.1"
       },
       {
@@ -18,15 +17,6 @@
     "https://github.com/irena-flextool/flextool.git": [
       {
         "project": "0.1"
-      },
-      {
-        "project": "0.2",
-        "Init": "0.1",
-        "Input_data": "0.1",
-        "Import_from_Excel": "0.2",
-        "Results": "0.5",
-        "Plot_results": "sha-1-abcdefg",
-        "Open_summary": "a"
       }
     ]
   }
