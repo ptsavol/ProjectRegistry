@@ -42,6 +42,11 @@
         "Data Connection": "0.3",
         "Importer": "0.2",
         "Data Store": "0.2"
+      },
+      {
+        "project": "0.0.8",
+        "Tool": "0.3",
+        "Data Connection": "0.4"
       }
     ],
     "https://github.com/irena-flextool/flextool.git": [
